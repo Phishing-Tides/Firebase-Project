@@ -7,6 +7,8 @@ Misc:
   * An app that will allow users to download music or videos from Youtube into an MP3 or an MP4
 3: Studying Assistant for IOS
   * An app that will act like a firewall on IOS. The user will set a timeer and the user's phone will only be allowed to access certain apps on their phone while the timer is active. This allows the user to focus on their work instead of getting distracted
+4: Jarvis
+  * A web and IOS app that gives the user an AI Assistant like Jarvis.
 
 Security:
 1: RFID or NFC card copier for IOS
