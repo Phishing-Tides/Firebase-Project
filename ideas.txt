@@ -1,0 +1,17 @@
+List of things I want to try and make in Firebase
+
+Misc:
+1: Go-Karting or Racing Timing System for IOS
+  * An app that will display lap times for go-karting or car racing on IOS
+2: Youtube to MP4 for IOS
+  * An app that will allow users to download music or videos from Youtube into an MP3 or an MP4
+3: Studying Assistant for IOS
+  * An app that will act like a firewall on IOS. The user will set a timeer and the user's phone will only be allowed to access certain apps on their phone while the timer is active. This allows the user to focus on their work instead of getting distracted
+
+Security:
+1: RFID or NFC card copier for IOS
+  * An app that will allow the user to copy keycards to their phone an emulate them
+2: Online Ghidra
+  * A web app that has a terminal with Ghidra which will have a built in cryptography analyzer
+3: Network Scanner for IOS and Web
+  * A web and IOS app that allows the user to scan a network to check if the network is safe
